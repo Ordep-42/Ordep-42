@@ -4,8 +4,7 @@ I'm an undergrad student in IT at IMD-UFRN. I love computer science and programm
 
 ## Interests
 
-- Theoretical computer science
-- Computer architecture
+- Computer engineering
 - Embedded systems
 
 ## Languages and Technologies
