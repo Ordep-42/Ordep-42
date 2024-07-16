@@ -21,7 +21,7 @@ I'm an undergrad student in IT at IMD-UFRN. I love computer science and programm
 - [Database Management System](https://github.com/Ordep-42/SGBD-ITP) - A simple and very unsafe database management system built with C that implements all CRUD functions and more. Made as the final project for the Introdução as Técnicas de Programação(Introduction to Programming Techniques) course.
 - [Automated Irrigation System with ESP32](https://github.com/Ordep-42/PlatHardwareIOT/tree/main/ProjetoFinal/SistemaDeIrrigacao) - A fully automated irrigation system built around an ESP32 and various sensors, also has a web interface using AdafruitIO. Made as the final project for the Plataformas de Hardware em IoT(Hardware Platforms for Iot) course.
 - [LEGO Hands On Throttle and Stick](https://github.com/Ordep-42/LEGO-HOTAS) - A Hands On Throttle and Stick for use in computer games and simulators, designed around the Arduino Pro Micro micro-controller and built using LEGO pieces.
-- [HAKKO 907 compatible solder station(WIP)](#a) - A HAKKO 907 compatible digital solder station based on the ESP32-C3, with real time temperature display, sleep and boost configuration and PID control.
+- [HAKKO 907 compatible solder station(WIP)](https://github.com/Ordep-42/T12_Soldering_Station) - A HAKKO 907 compatible digital solder station based on the ESP32-C3, with real time temperature display, sleep and boost configuration and PID control.
 
 ## Github Stats
 
