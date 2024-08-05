@@ -1,11 +1,12 @@
 ## Hello, i'm Pedro
 
-I'm an undergrad student in IT at IMD-UFRN. I love computer science and programming.
+I'm an undergrad student in IT at IMD-UFRN, with a keen interest in embedded systems development.
 
 ## Interests
 
 - Computer engineering
 - Embedded systems
+- Embedded development
 
 ## Languages and Technologies
 
